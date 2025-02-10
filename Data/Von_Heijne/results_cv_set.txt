@@ -1,0 +1,55 @@
+Test on the set [1] after validation on set [2]
+The optimal threshold is: 9.491364876277572
+Confusion Matrix:
+[[1368   38]
+ [  57  117]]
+Accuracy: 0.939873417721519
+Sensitivity: 0.6724137931034483
+PPV: 0.7548387096774194
+F1 Score: 0.7112462006079028
+MCC: 0.6792256201770892
+
+Test on the set [2] after validation on set [3]
+The optimal threshold is: 9.038315447126493
+Confusion Matrix:
+[[1353   53]
+ [  38  136]]
+Accuracy: 0.9424050632911393
+Sensitivity: 0.7816091954022989
+PPV: 0.7195767195767195
+F1 Score: 0.7493112947658404
+MCC: 0.7176212968440749
+
+Test on the set [3] after validation on set [4]
+The optimal threshold is: 9.486054818926602
+Confusion Matrix:
+[[1371   35]
+ [  57  116]]
+Accuracy: 0.9417352754908169
+Sensitivity: 0.6705202312138728
+PPV: 0.7682119205298014
+F1 Score: 0.7160493827160493
+MCC: 0.6857167574338233
+
+Test on the set [4] after validation on set [5]
+The optimal threshold is: 8.44987785094905
+Confusion Matrix:
+[[1325   81]
+ [  34  140]]
+Accuracy: 0.9272151898734177
+Sensitivity: 0.8045977011494253
+PPV: 0.6334841628959276
+F1 Score: 0.7088607594936708
+MCC: 0.6741782385928785
+
+Test on the set [5] after validation on set [1]
+The optimal threshold is: 9.519419049462185
+Confusion Matrix:
+[[1367   40]
+ [  58  115]]
+Accuracy: 0.9379746835443038
+Sensitivity: 0.6647398843930635
+PPV: 0.7419354838709677
+F1 Score: 0.701219512195122
+MCC: 0.6679838745915209
+
