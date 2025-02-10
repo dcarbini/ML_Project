@@ -1,0 +1,22 @@
+Confusion Matrix:
+[[1560    7   14]
+ [ 101   58   18]
+ [  17    6  194]]
+Accuracy: 0.9031645569620254
+Precision: 0.8934527516522812
+Recall: 0.9031645569620254
+F1 Score: 0.8884324675188445
+MCC: 0.6907570406744822
+
+Final Confusion Matrix:
+[[1726   32]
+ [  23  194]]
+Accuracy: 0.9721518987341772
+Precision: 0.8584070796460177
+Recall: 0.8940092165898618
+F1 Score: 0.8884324675188445
+MCC: 0.8603961295295646
+
+SVM method:
+ Overall False Positive Rate: 1.82%
+ Transmembrane Positive Rate: 10.17%
